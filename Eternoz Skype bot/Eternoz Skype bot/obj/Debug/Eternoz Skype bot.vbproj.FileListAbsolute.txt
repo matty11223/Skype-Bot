@@ -1,0 +1,12 @@
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\bin\Debug\Eternoz Skype bot.exe.config
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\bin\Debug\Eternoz Skype bot.exe
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\bin\Debug\Eternoz Skype bot.pdb
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\bin\Debug\Eternoz Skype bot.xml
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Eternoz_Skype_bot.Resources.resources
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Eternoz Skype bot.vbproj.GenerateResource.Cache
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Eternoz Skype bot.exe
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Eternoz Skype bot.xml
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Eternoz Skype bot.pdb
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Eternoz Skype bot.vbproj.ResolveComReference.cache
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Eternoz Skype bot\Eternoz Skype bot\obj\Debug\Eternoz_Skype_bot.Form1.resources
